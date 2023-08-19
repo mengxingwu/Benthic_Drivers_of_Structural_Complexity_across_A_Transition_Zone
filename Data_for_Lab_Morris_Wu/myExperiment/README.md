@@ -32,7 +32,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -67,7 +67,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -102,7 +102,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -137,7 +137,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -172,7 +172,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -209,7 +209,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -244,7 +244,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -279,7 +279,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -314,7 +314,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -349,7 +349,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -387,7 +387,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -422,7 +422,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -457,7 +457,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -492,7 +492,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -527,7 +527,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -564,7 +564,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -574,7 +574,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 *2. DC_composition.xlsx*
 
-This spreadsheet tells all polygons, the label on each polygon, short codes of labels, and short codes of simplified categories in site $Dongchin$, region $Lanyu$.
+This spreadsheet tells all polygons, the label on each polygon, short codes of labels, and short codes of simplified categories in site $Donching$, region $Lanyu$.
 
 **Sheet1**
 
@@ -599,7 +599,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -634,7 +634,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -669,7 +669,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -704,7 +704,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -742,7 +742,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -776,7 +776,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -810,7 +810,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -844,7 +844,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
@@ -878,7 +878,7 @@ This spreadsheet tells all polygons, the label on each polygon, short codes of l
 
 **Sheet2**
 
-**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and parimeter of each polygons.
+**Column A-C and E-G** is the same to Sheet1, telling the endpoints, order, path, area, and perimeter of each polygons.
 
 **Column D**: Sheet2 documents the polygon of *whole quadrat* and *substrates*, thereby this column tells the layers delineating quadrat and substrate types.
 
