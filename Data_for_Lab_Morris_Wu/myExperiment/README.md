@@ -903,7 +903,7 @@ This spreadsheet documents 23 complexity metrics collected and computed from QGI
 |  SL  | Shihlang |
 |  JH  | Jihui |
 |  BT  | Bitou  |
-|  DC  | Dongchin  |
+|  DC  | Donching  |
 |  JQ  | Jiqi  |
 |  LD  | Longdong  |
 |  CK  | Chaikou  |
@@ -989,7 +989,7 @@ VIII. Photogrammetric_Plot_Coordinates.xlsx
 ---------------------------------------------------------
 This spreadsheet documents the coordinates of each site.
 
-**Column A**: *Site*, Abbreviation of site names.
+**Column A**: *Site*, abbreviation of site names.
 
 **Column B**: *Lat*, the latitude (WGS84) of each site.
 
@@ -1013,4 +1013,4 @@ IX. ModelQuality.xlsx
 
 **Column E**: *Cont_Error*, control error of each 3D model. The unit is $meter$.
 
-**Column F**: *PLA*, planar area of each quadrat. 
+**Column F**: *PLA*, planar area of each quadrat. The unit is $m^2$.
